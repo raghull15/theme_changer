@@ -1,16 +1,3 @@
-# theme_changer
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Image](https://github.com/user-attachments/assets/93396409-8280-4d49-8e9e-cd8ca1e72283)
+![Image](https://github.com/user-attachments/assets/6a7df383-946f-4243-a1a4-5be942e45253)
+![Image](https://github.com/user-attachments/assets/3f7f4c26-a232-4e66-959c-dc0a559aa7bc)
